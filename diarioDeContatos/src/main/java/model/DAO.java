@@ -14,7 +14,7 @@ public class DAO {
 	private String driver = "com.mysql.cj.jdbc.Driver";
 	private String url = "jdbc:mysql://127.0.0.1:3306/agenda?useTimezone=true&serverTimezone=UTC";
 	private String user = "root";
-	private String password = "Coxinhacsgo1@";
+	private String password = "Insert your MySQL Password";
 	
 	//Método de conexão
 	// CNTRL SHIFT O PARA IMPORTAR CLASSES
