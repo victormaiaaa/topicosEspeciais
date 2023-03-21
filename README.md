@@ -27,8 +27,6 @@ Página Inicial da Agenda de Contatos, onde o usuário é recebido de forma amig
 ![PaginaInicial](https://raw.githubusercontent.com/joaogstex/Agenda-Contatos-CRUD/main/ImagensGit/Agenda1.jpg)
 
 <br/>
-
-
 <br/>
 
 Relatório PDF dos contatos: 
@@ -38,8 +36,6 @@ Relatório PDF dos contatos:
 ![PDF](https://raw.githubusercontent.com/joaogstex/Agenda-Contatos-CRUD/main/ImagensGit/AgendaPdf.jpg)
 
 <br/>
-
-
 <br/>
 
 Página de Criação de Novo Contato e Edição de Contato: 
