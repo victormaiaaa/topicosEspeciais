@@ -6,12 +6,13 @@ body {
 font-family: 'Montserrat', sans-serif;
 font-size: 1em;
 font-weight: 400;
-background-color: #748CC6;
+
 display: flex;
 text-align: center;
 justify-content: center;
 flex-direction: column;
 height: 100vh;
+background-color: #1B4965;
 }
 
 h1 {
@@ -19,7 +20,7 @@ color: #66bbff;
 width: 90%;
 max-width: 500px;
 margin: 0 auto;
-background: #748CC6;
+background: transparent;
 text-align: center;
 margin-bottom: 10px;
 }
